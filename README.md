@@ -1,4 +1,4 @@
-# Contador de Vagas de Estacionamento 
+# Parking Space Counter
 
 ## Videos
 
