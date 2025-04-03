@@ -1,4 +1,5 @@
 # Parking Space Counter
+Counts the number of free spaces in a parking lot.  
 
 ## Videos
 
